@@ -1,0 +1,38 @@
+{
+  "name": "Alfazza03 Digital",
+  "short_name": "Alfazza3",
+  "start_url": "https://alfazza03.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#964B00",
+  "theme_color": "#DD2C00",
+  "description": "Website kami adalah pusat produk digital internet marketing Indonesia yang menyediakan berbagai tool, tutorial video, tutorial ebook, plugin dan lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s48/Alfazza03.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s72/Alfazza03.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s96/Alfazza03.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s144/Alfazza03.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s168/Alfazza03.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s192/Alfazza03.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5QPv9xMGP0E/XpIl1QwdJGI/AAAAAAAAAJ0/e4XVJMB_YscbgNwHPOmjlB3WztK6s1hqACLcBGAsYHQ/s512/Alfazza03.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
